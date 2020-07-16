@@ -3,4 +3,4 @@ stuff
 
 
 
-hi, my name is greg and im trying to lern how to make games
+hi, my name is greg and im trying to learn how to make games
